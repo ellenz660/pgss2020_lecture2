@@ -8,3 +8,7 @@
 
 
 
+
+* LoadingIRISdata.ipynb is about loading data, structuring dataframes, and analyzing
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ellenz660/pgss2020_lecture2/blob/master/MyNotebooks/LoadingIRISdata.ipynb)
